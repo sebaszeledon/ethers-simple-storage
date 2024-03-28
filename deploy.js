@@ -1,11 +1,7 @@
 // synchronous [solidity]
 // asynchronous [javascript] 6:46
 
-async function main() {
-  console.log("hi");
-  let variable = 5;
-  console.log(variable);
-}
+async function main() {}
 
 main()
   .then(() => process.exit(0))
