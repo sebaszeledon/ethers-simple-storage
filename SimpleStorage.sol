@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-pragma solidity 0.8.24; //My first comment in solidity
+pragma solidity ^0.8.7; //My first comment in solidity
 
 //EVM, Ethereum Virtual Machine
 //Avalanche, Fantom, Polygon are compatible
